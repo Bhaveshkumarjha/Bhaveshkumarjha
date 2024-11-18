@@ -12,8 +12,8 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 - **Database**: MySQL, MongoDB
 
 
-## 🔗 Connect with Me
-## Connect with Me:
+### 🔗 Connect with Me
+### Connect with Me:
 
 [![Twitter](ttps://x.com/jhabhavesh20?s=09)
 [![Email](bhaveshkumarjha4@gmail.com))
