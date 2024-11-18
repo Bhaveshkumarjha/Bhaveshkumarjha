@@ -19,7 +19,7 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 [![Email](bhaveshkumarjha4@gmail.com))
 
 ## Some of My Repositories
-- [Project 1](https://github.com/your-username/project-1)
+- [Project 1](https://github.com/Bhaveshkumarjha/SpaceDekoder)
 - [Project 2](https://github.com/your-username/project-2)
 - [Project 3](https://github.com/your-username/project-3)
 
