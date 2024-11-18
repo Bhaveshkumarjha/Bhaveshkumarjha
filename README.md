@@ -13,9 +13,10 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 
 
 ## 🔗 Connect with Me
+## Connect with Me:
 
-- [Email](bhaveshkumarjha4@gmail.com)
-- [Twitter](https://x.com/jhabhavesh20?s=09)
+[![Twitter](ttps://x.com/jhabhavesh20?s=09)
+[![Email](bhaveshkumarjha4@gmail.com))
 
 ## Some of My Repositories
 - [Project 1](https://github.com/your-username/project-1)
