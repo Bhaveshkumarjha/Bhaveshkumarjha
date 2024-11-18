@@ -1,6 +1,6 @@
 # Hi there, I'm Bhavesh jha 👋
 
-# Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 
 ## About Me
 I'm a passionate Software Engineer with experience in  JavaScript, Python. I specialize in  web development,frontend, backend systems. I love solving problems and building scalable applications.
