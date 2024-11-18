@@ -1,4 +1,4 @@
-# Hi there, I'm Bhavesh jha 👋
+# Hi 👋, I'm Bhavesh jha 
 
 ## Welcome to my GitHub profile!
 
