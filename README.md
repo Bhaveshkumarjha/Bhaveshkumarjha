@@ -14,7 +14,9 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 
 ### 🔗 Connect with Me
 ### Connect with Me:
-
+<a href="https://twitter.com/your-username">
+  <img src="file:///C:/Users/ABC/Pictures/tw.svg " width="40" height="40" />
+</a>
 [![Twitter](ttps://x.com/jhabhavesh20?s=09)
 [![Email](bhaveshkumarjha4@gmail.com))
 
