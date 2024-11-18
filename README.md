@@ -6,7 +6,7 @@
 I'm a passionate Software Engineer with experience in  JavaScript, Python. I specialize in  web development,frontend, backend systems. I love solving problems and building scalable applications.
 
 ## 🚀 Skills & Technologies
-- **Languages**: JavaScript, Python, Java, C++
+- **Languages**: JavaScript, Python,java
 - **Frontend**: React, HTML5, CSS3
 - **Backend**: Node.js,
 - **Database**: MySQL, MongoDB
