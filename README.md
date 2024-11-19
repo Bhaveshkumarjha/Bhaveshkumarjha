@@ -13,7 +13,8 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 
 #### Social Media:
 
-[![Twitter](https://github.com/user-attachments/assets/ea9433a8-db87-4abb-a325-97c9b42bbedb)](https://twitter.com/your_username)
+
+[![Twitter](https://github.com/user-attachments/assets/6b8e51df-59ee-49c0-a1e4-fdef3ca35afc)](https://x.com/jhabhavesh20?s=09)
 
 [![Twitter](ttps://x.com/jhabhavesh20?s=09)
 [![Email](bhaveshkumarjha4@gmail.com))
