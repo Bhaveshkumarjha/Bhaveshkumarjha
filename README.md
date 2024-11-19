@@ -13,10 +13,10 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 
 #### Social Media:
 
-<a href="https://x.com/jhabhavesh20?s=09" style="display: inline-block; margin-right: 15px;">
+<a href="https://x.com/jhabhavesh20?s=09" style="display: inline-block; margin-left: 15px;">
   <img src="https://github.com/user-attachments/assets/6b8e51df-59ee-49c0-a1e4-fdef3ca35afc" width="50" height="50">
 </a>
-<a href="https://x.com/jhabhavesh20?s=09" style="display: inline-block; margin-right: 15px;">
+<a href="https://x.com/jhabhavesh20?s=09" style="display: inline-block; margin-left: 15px;">
   <img src="https://github.com/user-attachments/assets/6b8e51df-59ee-49c0-a1e4-fdef3ca35afc" width="50" height="50">
 </a>
 <a href="https://x.com/jhabhavesh20?s=09" style="display: inline-block;">
