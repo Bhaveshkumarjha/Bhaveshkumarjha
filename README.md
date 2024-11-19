@@ -13,7 +13,7 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 
 #### Social Media:
 
-![link in](https://github.com/user-attachments/assets/9018ae5f-7091-4a3b-95a0-46ab4f764e2d)
+
 
 
 <a href="https://x.com/jhabhavesh20?s=09" style="display: inline-block; margin-left: 15px;">
