@@ -12,7 +12,7 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 - **Database**: MySQL, MongoDB
 
 #### Social Media:
-
+[![Social Media Name](file:///C:/Users/ABC/Pictures/tw.svg)](URL to Social Media Profile)
 [![Twitter](ttps://x.com/jhabhavesh20?s=09)
 [![Email](bhaveshkumarjha4@gmail.com))
 
