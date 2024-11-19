@@ -11,16 +11,10 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 - **Backend**: Node.js,
 - **Database**: MySQL, MongoDB
 
-
-### 🔗 Connect with Me
 #### Social Media:
 
 [![Twitter](ttps://x.com/jhabhavesh20?s=09)
 [![Email](bhaveshkumarjha4@gmail.com))
 
-## Some of My Repositories
-- [Project 1](https://github.com/Bhaveshkumarjha/SpaceDekoder)
-- [Project 2](https://github.com/Bhaveshkumarjha/Scrpyard)
-- [Project 3](https://github.com/your-username/project-3)
 
 
