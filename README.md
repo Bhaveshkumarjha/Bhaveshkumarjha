@@ -13,6 +13,9 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 
 #### Social Media:
 
+<a href="https://x.com/jhabhavesh20?s=09">
+  <img src="https://github.com/user-attachments/assets/6b8e51df-59ee-49c0-a1e4-fdef3ca35afc" width="50" height="50">
+</a>
 
 [![Twitter](https://github.com/user-attachments/assets/6b8e51df-59ee-49c0-a1e4-fdef3ca35afc)](https://x.com/jhabhavesh20?s=09)
 
