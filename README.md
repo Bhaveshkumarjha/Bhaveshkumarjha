@@ -16,6 +16,7 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 
 
 
+
 <a href="https://x.com/jhabhavesh20?s=09" style="display: inline-block; margin-left: 15px;">
   <img src="https://github.com/user-attachments/assets/6b8e51df-59ee-49c0-a1e4-fdef3ca35afc" width="140" height="60">
 </a>
@@ -27,5 +28,8 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 </a>
 <a href="https://kumarjeebhavesh.wixsite.com/mysite" style="display: inline-block; margin-left: -45px; left-margin:45px;">
   <img src="https://github.com/user-attachments/assets/035f7c34-6180-4bd2-b29f-59e1f038c69b" width="140" height="60">
+</a>
+<a href="https://kumarjeebhavesh.wixsite.com/mysite" style="display: inline-block; margin-left: -45px; left-margin:45px;">
+  <img src="https://github.com/user-attachments/assets/e85c3f3a-54df-46ac-8dbb-f3dff2aeb760" width="140" height="60">
 </a>
 
