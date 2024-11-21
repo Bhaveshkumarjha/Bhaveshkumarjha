@@ -1,4 +1,3 @@
-<body style=" background-color: blue;">
 # Hi 👋, I'm Bhavesh jha 
 
 ## Welcome to my GitHub profile!
@@ -29,4 +28,4 @@ I'm a passionate Software Engineer with experience in  JavaScript, Python. I spe
 <a href="https://kumarjeebhavesh.wixsite.com/mysite" style="display: inline-block; margin-left: -45px; left-margin:45px;">
   <img src="https://github.com/user-attachments/assets/035f7c34-6180-4bd2-b29f-59e1f038c69b" width="140" height="60">
 </a>
-</body>
+
